@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+*{
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+body{
+    background-image: linear-gradient(-75deg, #efffc8, #A5CBC3);
+}
+
+main{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #7b9791af;
+
+}
+
+h1{
+    color: #85CB33;
+    text-align: center;
+    font-size: 35pt;
+    text-shadow: 1px 1px 0px #416418b2;
+}
+
+h2{
+    color: #4b4227;
+}
