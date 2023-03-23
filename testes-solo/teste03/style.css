@@ -37,8 +37,10 @@ main{
     text-shadow: 2px 2px 1px #011309;
     border-radius: 10px;
     text-align: center;
-    margin: 50px auto 50px auto;
+    margin: auto;
+    margin-top: 50px;
     padding-top: 50px;
+    margin-bottom: 50px;
  
     
 
@@ -71,14 +73,29 @@ main h3{
 
 main  div#ul{
     font-family: 'solo', cursive;
-    color:  white;
+    color:  rgb(32, 30, 30);
     font-weight: normal;
     padding: 15px;
     line-height: 2em;
     text-align:  left;
-    margin-left: 150px; 
+    margin-left: 250px; 
 
 }
+
+main div.cima{
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    padding-top: 60px;
+}
+
+main div.baixo{    
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    padding-top: 20px;
+}
+
 
 
 main  a{
@@ -90,7 +107,7 @@ main > p{
     text-align: center;
     font-family: 'solo', cursive;
     font-style: normal;
-    color:  #02351a;
+    color:  #07753a;
     padding: 15px;
 
 }
