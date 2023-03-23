@@ -32,7 +32,7 @@ body{
 
 main{
     background-color: #caf3ded8;
-    width: 60vw;
+    max-width: 60vw;
     box-shadow: 10px 10px 06px  #0c7c4094 ;
     text-shadow: 2px 2px 1px #011309;
     border-radius: 10px;
