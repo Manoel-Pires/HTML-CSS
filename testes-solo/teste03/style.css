@@ -33,13 +33,13 @@ main{
     background-color: #caf3ded8;
     width: 60vw;
     box-shadow: 10px 10px 06px  #0c7c4094 ;
-    padding: 5px;
     text-shadow: 2px 2px 1px #011309;
     border-radius: 10px;
     text-align: center;
     margin: 50px auto 50px auto;
-    padding-top: 50px; 
-    padding-bottom: 50px;
+    padding-top: 50px;
+ 
+    
 
 }
 
@@ -75,11 +75,9 @@ main  div#ul{
     padding: 15px;
     line-height: 2em;
     text-align:  left;
-    margin-left: 150px;
-    
+    margin-left: 150px; 
 
 }
-
 
 
 main  a{
@@ -96,15 +94,6 @@ main > p{
 
 }
 
-main > p#hide{
-    display: none;
-}
-
-
-main > p#hide:hover{
-    display:block ;
-
-}
 
 
 
