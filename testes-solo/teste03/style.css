@@ -87,6 +87,7 @@ main div.cima{
     height: 200px;
     display: inline-block;
     padding-top: 60px;
+    margin-right: 20px;
 }
 
 main div.baixo{    
@@ -94,6 +95,7 @@ main div.baixo{
     height: 200px;
     display: inline-block;
     padding-top: 20px;
+    margin-right: 20px;
 }
 
 
